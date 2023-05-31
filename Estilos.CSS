@@ -1,0 +1,11 @@
+h1 {
+    color:blueviolet;
+    font-size: 20px;
+    font-family: monospace;
+}
+header {
+    background-color: #83fbc5;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
